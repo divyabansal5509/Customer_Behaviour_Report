@@ -194,7 +194,7 @@ jupyter notebook
 ## Dashboard Preview
 
 <p align="center">
-  <img src="images/dashboard.png" width="1000">
+  <img src="images/Dashboard.png" width="1000">
 </p>
 
 The dashboard provides insights into customer demographics, revenue distribution, sales performance, subscription status, and purchasing behavior through interactive visualizations and filters.
